@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Apple iPhone 15 Pro Max 1TB",
+    "price": 68999,
+    "rating": 4.9,
+    "reviews": 345
+  },
+  {
+    "title": "Samsung Galaxy S24 Ultra 1TB",
+    "price": 64999,
+    "rating": 4.8,
+    "reviews": 312
+  },
+  {
+    "title": "Apple iPhone 14 128GB",
+    "price": 35999,
+    "rating": 4.7,
+    "reviews": 412
+  },
+  {
+    "title": "Samsung Galaxy S23 256GB",
+    "price": 30999,
+    "rating": 4.6,
+    "reviews": 287
+  },
+  {
+    "title": "Apple iPhone SE 64GB (2022)",
+    "price": 18999,
+    "rating": 4.4,
+    "reviews": 198
+  },
+  {
+    "title": "Samsung Galaxy A54 128GB",
+    "price": 14999,
+    "rating": 4.5,
+    "reviews": 221
+  }
+]
